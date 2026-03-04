@@ -8053,7 +8053,8 @@
     "latitude": "12.97194",
     "longitude": "77.59369",
     "stateCode": "KA",
-    "stateName": "Karnataka"
+    "stateName": "Karnataka",
+    "alternate names": "bangalore"
   },
   {
     "id": "57847",
@@ -8061,7 +8062,8 @@
     "latitude": "13.22567",
     "longitude": "77.57501",
     "stateCode": "KA",
-    "stateName": "Karnataka"
+    "stateName": "Karnataka",
+    "alternate names": "bangalore"
   },
   {
     "id": "57848",
@@ -8069,7 +8071,8 @@
     "latitude": "13",
     "longitude": "77.58333",
     "stateCode": "KA",
-    "stateName": "Karnataka"
+    "stateName": "Karnataka",
+    "alternate names": "bangalore"
   },
   {
     "id": "57956",
@@ -15413,7 +15416,8 @@
     "latitude": "19.07283",
     "longitude": "72.88261",
     "stateCode": "MH",
-    "stateName": "Maharashtra"
+    "stateName": "Maharashtra",
+    "alternate names": "Bombay"
   },
   {
     "id": "133025",
@@ -15421,7 +15425,8 @@
     "latitude": "19.12636",
     "longitude": "72.84897",
     "stateCode": "MH",
-    "stateName": "Maharashtra"
+    "stateName": "Maharashtra",
+    "alternate names": "Bombay"
   },
   {
     "id": "133035",

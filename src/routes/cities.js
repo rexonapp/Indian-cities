@@ -18,10 +18,10 @@ router.get("/", (req, res) => {
   const result = cities
   .filter(item => {
     const city = item.name?.toLowerCase() || "";
-    // const alt = item["alternate names"]?.toLowerCase() || "";
+    const alt = item["alternate names"]?.toLowerCase() || "";
 
     return city.startsWith(search)
-    //  || alt.includes(search);
+     || alt.includes(search);
   })
   .slice(0, 50);
 
