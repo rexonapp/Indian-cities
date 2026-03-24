@@ -1206,7 +1206,7 @@
     "longitude": "79.41989",
     "stateCode": "AP",
     "stateName": "Andhra Pradesh",
-    "alternate names": "Tirupathi"
+    "alternate_name": "Tirupathi"
   },
   {
     "id": "134222",
@@ -8055,7 +8055,7 @@
     "longitude": "77.59369",
     "stateCode": "KA",
     "stateName": "Karnataka",
-    "alternate names": "bangalore"
+    "alternate_name": "bangalore"
   },
   {
     "id": "57933",
@@ -8064,7 +8064,7 @@
     "longitude": "77.59369",
     "stateCode": "KA",
     "stateName": "Karnataka",
-    "alternate names": "Bengaluru"
+    "alternate_name": "Bengaluru"
   },
   {
     "id": "57847",
@@ -8073,7 +8073,7 @@
     "longitude": "77.57501",
     "stateCode": "KA",
     "stateName": "Karnataka",
-    "alternate names": "bangalore"
+    "alternate_name": "bangalore"
   },
   {
     "id": "57848",
@@ -8082,7 +8082,7 @@
     "longitude": "77.58333",
     "stateCode": "KA",
     "stateName": "Karnataka",
-    "alternate names": "bangalore"
+    "alternate_name": "bangalore"
   },
   {
     "id": "57956",
@@ -15427,7 +15427,7 @@
     "longitude": "72.88261",
     "stateCode": "MH",
     "stateName": "Maharashtra",
-    "alternate names": "Bombay"
+    "alternate_name": "Bombay"
   },
   {
     "id": "133025",
@@ -15436,7 +15436,7 @@
     "longitude": "72.84897",
     "stateCode": "MH",
     "stateName": "Maharashtra",
-    "alternate names": "Bombay"
+    "alternate_name": "Bombay"
   },
   {
     "id": "133035",
